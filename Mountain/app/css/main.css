@@ -2,57 +2,57 @@
   font-family: "OpenSansRegular";
   font-weight: normal;
   font-style: normal;
-  src: url("../fonts/OpenSansRegular/OpenSansRegular.eot");
-  src: url("../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"), url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype"); }
+  src: url("/fonts/OpenSansRegular/OpenSansRegular.eot");
+  src: url("/fonts/OpenSansRegular/OpenSansRegular.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"), url("/fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype"); }
 
 @font-face {
   font-family: "OpenSansBold";
   font-weight: bold;
   font-style: normal;
-  src: url("../fonts/OpenSansBold/OpenSansBold.eot");
-  src: url("../fonts/OpenSansBold/OpenSansBold.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSansBold/OpenSansBold.woff") format("woff"), url("../fonts/OpenSansBold/OpenSansBold.ttf") format("truetype"); }
+  src: url("/fonts/OpenSansBold/OpenSansBold.eot");
+  src: url("/fonts/OpenSansBold/OpenSansBold.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSansBold/OpenSansBold.woff") format("woff"), url("/fonts/OpenSansBold/OpenSansBold.ttf") format("truetype"); }
 
 @font-face {
   font-family: "OpenSansExtraBold";
   font-weight: bold;
   font-style: normal;
-  src: url("../fonts/OpenSansExtraBold/OpenSansExtraBold.eot");
-  src: url("../fonts/OpenSansExtraBold/OpenSansExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSansExtraBold/OpenSansExtraBold.woff") format("woff"), url("../fonts/OpenSansExtraBold/OpenSansExtraBold.ttf") format("truetype"); }
+  src: url("/fonts/OpenSansExtraBold/OpenSansExtraBold.eot");
+  src: url("/fonts/OpenSansExtraBold/OpenSansExtraBold.eot?#iefix") format("embedded-opentype"), url("/fonts/OpenSansExtraBold/OpenSansExtraBold.woff") format("woff"), url("/fonts/OpenSansExtraBold/OpenSansExtraBold.ttf") format("truetype"); }
 
 @font-face {
   font-family: "RalewayBold";
   font-weight: bold;
   font-style: normal;
-  src: url("../fonts/RalewayBold/ralewaybold.eot");
-  src: url("../fonts/RalewayBold/ralewaybold.eot?#iefix") format("embedded-opentype"), url("../fonts/RalewayBold/ralewaybold.woff") format("woff"), url("../fonts/RalewayBold/ralewaybold.ttf") format("truetype"); }
+  src: url("/fonts/RalewayBold/ralewaybold.eot");
+  src: url("/fonts/RalewayBold/ralewaybold.eot?#iefix") format("embedded-opentype"), url("/fonts/RalewayBold/ralewaybold.woff") format("woff"), url("/fonts/RalewayBold/ralewaybold.ttf") format("truetype"); }
 
 @font-face {
   font-family: "RobotoBold";
   font-weight: bold;
   font-style: normal;
-  src: url("../fonts/RobotoBold/RobotoBold.eot");
-  src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype"); }
+  src: url("/fonts/RobotoBold/RobotoBold.eot");
+  src: url("/fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"), url("/fonts/RobotoBold/RobotoBold.woff") format("woff"), url("/fonts/RobotoBold/RobotoBold.ttf") format("truetype"); }
 
 @font-face {
   font-family: "BringinRegular";
   font-weight: normal;
   font-style: normal;
-  src: url("../fonts/BringinRegular/BringinRegular.eot");
-  src: url("../fonts/BringinRegular/BringinRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/BringinRegular/BringinRegular.woff") format("woff"), url("../fonts/BringinRegular/BringinRegular.ttf") format("truetype"); }
+  src: url("/fonts/BringinRegular/BringinRegular.eot");
+  src: url("/fonts/BringinRegular/BringinRegular.eot?#iefix") format("embedded-opentype"), url("/fonts/BringinRegular/BringinRegular.woff") format("woff"), url("/fonts/BringinRegular/BringinRegular.ttf") format("truetype"); }
 
 @font-face {
   font-family: "RobotoRegular";
   font-weight: normal;
   font-style: normal;
-  src: url("../fonts/RobotoRegular/RobotoRegular.eot");
-  src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+  src: url("/fonts/RobotoRegular/RobotoRegular.eot");
+  src: url("/fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("/fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("/fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
 
 @font-face {
   font-family: "RobotoLight";
   font-weight: normal;
   font-style: normal;
-  src: url("../fonts/RobotoLight/RobotoLight.eot");
-  src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoLight/RobotoLight.woff") format("woff"), url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype"); }
+  src: url("/fonts/RobotoLight/RobotoLight.eot");
+  src: url("/fonts/RobotoLight/RobotoLight.eot?#iefix") format("embedded-opentype"), url("/fonts/RobotoLight/RobotoLight.woff") format("woff"), url("/fonts/RobotoLight/RobotoLight.ttf") format("truetype"); }
 
 html {
   font-family: sans-serif;
@@ -2973,7 +2973,7 @@ h2::before {
   width: 81px;
   height: 7px;
   opacity: .2;
-  background-image: url("../img/wawes.png"); }
+  background-image: url("/img/wawes.png"); }
 
 section {
   padding-top: 75px;
@@ -3007,7 +3007,7 @@ input {
 
 header.main-head {
   background-color: #ccc;
-  background: url("../img/bg_header.jpg");
+  background: url("/img/bg_header.jpg");
   height: 698px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3282,7 +3282,7 @@ header.main-head {
 
 .s_about .bg_world::after {
   content: '';
-  background-image: url("../img/world.png");
+  background-image: url("/img/world.png");
   background-repeat: no-repeat;
   background-position: center center;
   height: 528px;
@@ -3513,7 +3513,7 @@ header.main-head {
 
 .s_offer {
   background-color: #f6f4f4;
-  background-image: url("../img/bg_offer.jpg");
+  background-image: url("/img/bg_offer.jpg");
   padding-top: 170px;
   padding-bottom: 220px; }
 
@@ -3580,7 +3580,7 @@ header.main-head {
   position: relative; }
 
 .work-img-wrap .inner {
-  background-image: url("../img/works/white_bg.png");
+  background-image: url("/img/works/white_bg.png");
   position: absolute;
   margin: auto;
   left: 0;
@@ -3670,7 +3670,7 @@ header.main-head {
   position: absolute;
   bottom: 0;
   left: 0;
-  background-image: url("../img/bg_travel.jpg");
+  background-image: url("/img/bg_travel.jpg");
   height: 802px;
   width: 100%;
   background-repeat: no-repeat;
@@ -3682,7 +3682,7 @@ header.main-head {
 
 .travel_wu .tbg_world::after {
   content: '';
-  background-image: url("../img/bworld.png");
+  background-image: url("/img/bworld.png");
   background-repeat: no-repeat;
   background-position: center center;
   height: 733px;
@@ -3888,7 +3888,7 @@ header.main-head {
   position: absolute;
   bottom: 0;
   left: 0;
-  background-image: url("../img/footer_bg.jpg");
+  background-image: url("/img/footer_bg.jpg");
   height: 1130px;
   width: 100%;
   background-repeat: no-repeat;
