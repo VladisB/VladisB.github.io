@@ -1,7 +1,5 @@
 $(function() {
-	var a = prompt("Who you are?", "");
-	 if (a != 'Chebyrechek') {alert("Goodbye!");}
-	 else{
+	
 
 	$("#owl-slider-one").owlCarousel({
 		loop:true,
@@ -126,5 +124,4 @@ jQuery('img.svg').each(function(){
 
 });
 
-}
 });
